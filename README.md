@@ -79,6 +79,15 @@ Talent Analysis Output
 
 ## 📱 Screens Included
 
+<img width="717" height="1600" alt="WhatsApp Image 2026-05-09 at 00 55 37" src="https://github.com/user-attachments/assets/46e5007f-16bd-4206-9948-c64f5ce364dd" />
+<img width="1080" height="2408" alt="WhatsApp Image 2026-05-09 at 00 55 37 (1)" src="https://github.com/user-attachments/assets/98143d85-4db5-44c5-b5c9-d85615eae3ff" />
+<img width="717" height="1600" alt="WhatsApp Image 2026-05-09 at 00 55 38 (1)" src="https://github.com/user-attachments/assets/e42a7b38-5144-4469-9263-043d4c41b1da" />
+<img width="717" height="1600" alt="WhatsApp Image 2026-05-09 at 00 55 38" src="https://github.com/user-attachments/assets/fbf2361c-ccc8-45ee-8e7f-2f4012d28070" />
+
+
+
+
+
 ---
 
 ## 💻 Installation Steps
