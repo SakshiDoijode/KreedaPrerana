@@ -1,6 +1,7 @@
 // settings.gradle
 // File: KreedaPrerana/settings.gradle
 
+
 pluginManagement {
     repositories {
         google()
